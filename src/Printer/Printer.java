@@ -15,5 +15,6 @@ public class Printer {
         System.out.println("Figure: "+triangle.getFigure()+". Area of triangle = "+triangle.countArea());
         Rect rect=new Rect(7,9);
         System.out.println("Figure: "+rect.getFigure()+". Area of rect = "+rect.countArea());
+        System.out.println("получилось закомитить изменения");
     }
 }
